@@ -5,6 +5,12 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.19.0](https://github.com/sanity-io/sanity-plugin-mux-input/compare/v2.18.0...v2.19.0) (2026-05-11)
+
+### Features
+
+- Send plugin version to Mux proxy via `sanityVersion` query param ([#482](https://github.com/sanity-io/sanity-plugin-mux-input/issues/482)) ([bf3de21](https://github.com/sanity-io/sanity-plugin-mux-input/commit/bf3de21ea0d02acbe338b679d78402a91dcfb56c))
+
 ## [2.18.0](https://github.com/sanity-io/sanity-plugin-mux-input/compare/v2.17.0...v2.18.0) (2026-04-29)
 
 ### Features
